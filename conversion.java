@@ -46,5 +46,5 @@ public class conversion{
     }catch(IOException e){
       System.out.println(e);
     }
-  }//main() ends here
+  }
 }
